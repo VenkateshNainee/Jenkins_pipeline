@@ -26,14 +26,7 @@ npm install
 
 ======================================================================
 
-<h1 align="center">Hi 👋, Everyone</h1>
-<h3 align="center">"WishInfinite : Your go-to channel for mastering Software testing, Coding, and Automation. Join me for expert insights, tutorials, and tips !!"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wish-infinite&label=Profile%20views&color=0e75b6&style=flat" alt="wish-infinite" /> </p>
-
-- 🔭 I’m currently working on [Playwright Tutorials creation on Youtube](youtube.com/@WishInfinite)
-
-- 📫 How to reach me **wishinfinite01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
